@@ -1,2 +1,5 @@
 # DUNGEON
- fun short game with broken character
+ Fun short game with broken characters and physics
+ Third person
+ Halloween theme
+
